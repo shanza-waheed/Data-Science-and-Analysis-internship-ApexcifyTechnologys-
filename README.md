@@ -88,9 +88,6 @@ print(df)
 After calculating the averages, the highest-performing student was identified as:  
 
 ##Top Student:
-Name: Sara
-Math: 92
-English: 88
-Science: 95
-Average: 91
-
+| Name  | Math | English | Science | Average |
+|-------|------|---------|---------|---------|
+| Sara  | 92   | 88      | 95      | 91      |
